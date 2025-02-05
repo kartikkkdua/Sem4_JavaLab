@@ -23,8 +23,6 @@ public class PositionRotation {
 
         System.out.print("Array after rotation: ");
         printArray(arr);
-
-        scanner.close();
     }
 
     public static void rotateArray(int[] arr, int k) {
